@@ -28,7 +28,7 @@ const List = ({ list }) => {
     return (
         <div className='cart-list'>
             <div className="auth-info">
-                <h4>Mahabub Rahman</h4>
+                <h4>Mursalin Khan</h4>
                 <p><small>React developer</small></p>
             </div>
             <div className="identify">
@@ -41,7 +41,7 @@ const List = ({ list }) => {
                     <h4>Height</h4>
                 </div>
                 <div className="single-idenity">
-                    <h3>22<small>yrs</small></h3>
+                    <h3>25<small>yrs</small></h3>
                     <h4>Age</h4>
                 </div>
             </div>

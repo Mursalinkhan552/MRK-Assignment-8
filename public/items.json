@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Hiking Exercise",
+        "time": 21,
+        "description": "Goblet squats are a great exercise for hikers since they target all of the bigger leg muscles including your quads, hamstrings, and glutes.",
+        "img": "./gym3.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "2",
+        "name": "Yard work exercise",
+        "time": 47,
+        "description": "The benefits of gardening go far beyond connecting to nature and creating a beautiful yard. According to the Centers for Disease Control and Prevention, gardening qualifies as exercise. In fact, getting out in the yard for just 30-45 minutes can burn up to 300 calories.",
+        "img": "./gym3.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "3",
+        "name": "Dancing Exercise",
+        "time": 29,
+        "description": "Zumba, jazzercise, ballroom dancing, and belly dance are the various dance types that can keep you healthy and active while having fun. Catering to different styles and genres of dance, these help stretch your body, tone, your muscles, and improve flexibility overall.",
+        "img": "./gym3.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "4",
+        "name": "Biking Exercise",
+        "time": 39,
+        "description": "Biking is a top-notch cardio workout. You'll burn about 400 calories an hour. Plus it strengthens your lower body, including your legs, hips, and glutes. If you want a workout that's gentle on your back, hips and knees. ",
+        "img": "./gym3.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "5",
+        "name": "Jogging workout",
+        "time": 43,
+        "description": "How long should I jog for a good workout? To achieve or maintain a basic level of physical fitness, jog 30 minutes per day for five days per week for a total of 150 minutes per week. For better physical fitness",
+        "img":"./gym3.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "6",
+        "name": "Outdoor Games",
+        "time": 26,
+        "description": "Outdoor games are an excellent form of exercise for kids. It helps to strengthen their muscles and joints, increases flexibility, and makes them more agile. Immunity is also improved.",
+        "img": "./gym3.jpg",
+        "quantity": 0
+    }
+]
