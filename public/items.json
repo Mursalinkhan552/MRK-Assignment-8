@@ -35,7 +35,7 @@
         "id": "5",
         "name": "Jogging workout",
         "time": 43,
-        "description": "How long should I jog for a good workout? To achieve or maintain a basic level of physical fitness, jog 30 minutes per day for five days per week for a total of 150 minutes per week. For better physical fitness",
+        "description": "To achieve or maintain a basic level of physical fitness, jog 30 minutes per day for five days per week for a total of 150 minutes per week. For better physical fitness, increase your jogging time to 60 minutes per day.",
         "img":"./gym3.jpg",
         "quantity": 0
     },
