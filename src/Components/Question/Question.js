@@ -8,7 +8,7 @@ const Question = () => {
             <h1>Question Section</h1>
             <div className='question'>
                 <Que question='How does React Work?'
-                    answer="ReactJS divides the UI into isolated reusable pieces of code known as components. React components work similarly to JavaScript functions as they accept arbitrary inputs called properties or props. It's possible to have as many components as necessary without cluttering your code."></Que>
+                    answer="ReactJS divides the UI into isolated reusable pieces of code known as components. React components work similarly to JavaScript functions as they accept arbitrary inputs called properties or props. It's possible to have as many components as necessary without cluttering your code. React is a declarative, efficient, and flexible JavaScript library for building user interfaces."></Que>
                 <Que question='What is the difference between props and state?'
                     answer="Props are used to pass data from one component to another. The state is a local data storage that is local to the component only and cannot be passed to other components. The this. setState property is used to update the state values in the component.."></Que>
                 <Que question='What is the purpose of useEffect hook?'
