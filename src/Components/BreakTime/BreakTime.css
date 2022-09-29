@@ -1,0 +1,7 @@
+.break-btn button {
+    border: none;
+    background-color:rgb(132, 233, 121);
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 75%;
+}
