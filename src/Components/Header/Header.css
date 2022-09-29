@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 60px;
+    background-color: rgb(132, 233, 121);
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: white;
+    margin-left: 18px;
+    font-weight: 500;
+}
+
+.nav-menu a:hover {
+    color: crimson;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 980px) {
+    .nav-menu {
+        display: none;
+    }
+}
